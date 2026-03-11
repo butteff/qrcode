@@ -2,7 +2,7 @@
 
 ## Видео
 
-
+https://github.com/butteff/qrcode/raw/refs/heads/master/genomed.mp4
 
 ## Установка проекта
 
